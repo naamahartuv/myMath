@@ -11,6 +11,7 @@ import de.erichseifert.gral.ui.InteractivePanel;
 /**
  * in this class we build a graph for the polynom that we get. we find the maxima and minima, 
  * and then we draw the graph, and add to it marking of the maxima and minima.
+ * the source of the code is: http://trac.erichseifert.de/gral/
  * @author yael hava and naama hartuv
  *
  */
